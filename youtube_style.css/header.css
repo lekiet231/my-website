@@ -39,6 +39,7 @@
 .youtube-logo {
   height: 20px;
   cursor: pointer;
+  
 } 
 
 .middle-section {
@@ -103,6 +104,7 @@
   pointer-events: none;
   white-space: nowrap;
 }
+
 .search-button:hover .tooltip,.voice-search-button:hover .tooltip,.upload-container:hover .tooltip {
   opacity: 1;
 }
